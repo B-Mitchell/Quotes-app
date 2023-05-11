@@ -1,0 +1,33 @@
+.featuredMain {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+.featuredIcons {
+    display: flex;
+    justify-content: space-around;
+}
+.featuredQuotes {
+    border-top: 1px solid black;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 1rem;
+    padding: .9rem;
+    text-align: center;
+    list-style: none;
+}
+.Ficon {
+    display: block;
+    border-radius: 50%;
+    padding: .2rem;
+    margin: 0;
+}
+.Ficon:hover {
+    color: red;
+}
+.featuredH2 {
+    font-weight: 600;
+    text-align: center;
+    padding: 2rem;
+    margin-top: 6rem;
+}

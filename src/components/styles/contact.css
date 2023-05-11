@@ -1,0 +1,40 @@
+body {
+    background-color: whitesmoke;
+}
+.contact-main-div {
+    padding: 20px;
+}
+.contact-h3 {
+    font-weight: 600;
+    font-size: 30px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3rem;
+    letter-spacing: .05rem;
+}
+.contact-p {
+    text-align: center;
+    font-size: 1.3rem;
+}
+.contact-ul {
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin: auto;
+}
+.contact-li {
+    list-style: none;
+    width: 5rem;
+    margin: 2rem;
+    padding: .5rem;
+    text-align: center;
+    border-radius: 5rem;
+}
+.Slogos {
+    color: black;
+}
+.contact-li:hover {
+    background-color: gray;
+}
+

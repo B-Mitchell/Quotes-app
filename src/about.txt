@@ -1,0 +1,12 @@
+---ABOUT THE BLOG APP---
+-------Featured----
+section to view on launch, would contain all published blogs,would contain a button to delete blog
+
+
+
+-------Create a blog----
+section to create a blog and publish, with author's name
+
+-------Edit any blog------
+section to edit any blog published 
+

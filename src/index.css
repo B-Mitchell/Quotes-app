@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'sans-serif';
+  min-height: 100vh;
+  background-color: rgb(252, 250, 241);
+  position: relative;
+}
+* {
+  font-weight: 100;
+}
+.createButton {
+  display: block;
+  margin: auto;
+}
+.featuredMain {
+  padding-bottom: 26px;
+}

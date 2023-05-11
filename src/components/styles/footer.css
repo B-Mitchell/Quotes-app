@@ -1,0 +1,14 @@
+.footer {
+    background-color: black;
+    width: 100%;
+    height: 40px;
+    position: fixed;
+    bottom: 0;
+}
+.footText {
+    display: block;
+    padding-top: 10px;
+    margin: auto;
+    text-align: center;
+    color: #fff;
+}

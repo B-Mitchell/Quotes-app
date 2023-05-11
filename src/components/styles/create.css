@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+}
+/* .createMain {
+
+} */
+.createH2 {
+    text-align: center;
+    
+}
+.createTitle {
+    padding: 10px;
+    display: flex;
+    margin-bottom: 30px;
+}
+.createP {
+    margin: 0;
+    font-size: 1.5rem;
+    margin-right: 4%;
+}
+.createTextarea {
+    min-width: 70%;
+    min-height: 15rem;
+    margin: auto;
+    outline: none;
+    padding: 10px;
+    font-family: sans-serif;
+}
+.createInput {
+    min-width: 64%;
+    min-height: 2rem;
+    margin: auto;
+    outline: none;
+    padding: 10px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    animation: animate 5s infinite;
+}
+.createButton {
+    background-color: gray;
+    font-weight: 500;
+    width: 8rem;
+    height: 2rem;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.createButton:hover {
+    transition: .4s;
+    background-color: #000;
+    color: #fff;
+
+}
+.validateMsg {
+    color: black;
+}
+@keyframes animate {
+    0% {
+        border-bottom: 1px solid black;
+    }
+    50% {
+        border-bottom: 1px solid gold;
+    }
+    100% {
+        border-bottom: 1px solid grey;
+    }
+}
